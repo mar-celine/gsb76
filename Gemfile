@@ -19,6 +19,7 @@ group :jekyll_plugins do
     gem 'webrick'
 end
 group :other_plugins do
+    gem 'github-pages'
     gem 'httparty'
     gem 'feedjira'
 end
